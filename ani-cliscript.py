@@ -27,7 +27,6 @@ child.sendline("1")
 child.sendline("\r")
 child.sendline("")
 
-
 #episode = 69
 #print(f"{userin} has {episode}")
 
